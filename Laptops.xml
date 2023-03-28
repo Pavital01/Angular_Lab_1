@@ -1,0 +1,81 @@
+<catalog>
+    <laptops>
+        <laptop id="1">
+            <brand>Apple</brand>
+            <model>MacBook Pro</model>
+            <screen_size>13.3</screen_size>
+            <resolution>2560x1600</resolution>
+            <processor>
+                <name>Intel Core i5</name>
+                <clock_speed>2.4 GHz</clock_speed>
+                <cores>4</cores>
+            </processor>
+            <memory>
+                <size>8 GB</size>
+                <type>DDR4</type>
+            </memory>
+            <storage>
+                <type>SSD</type>
+                <size>256 GB</size>
+            </storage>
+            <price>1499.00</price>
+        </laptop>
+        <laptop id="2">
+            <brand>HP</brand>
+            <model>Spectre x360</model>
+            <screen_size>13.3</screen_size>
+            <resolution>1920x1080</resolution>
+            <processor>
+                <name>Intel Core i7</name>
+                <clock_speed>2.8 GHz</clock_speed>
+                <cores>4</cores>
+            </processor>
+            <memory>
+                <size>16 GB</size>
+                <type>DDR4</type>
+            </memory>
+            <storage>
+                <type>SSD</type>
+                <size>512 GB</size>
+            </storage>
+            <price>1399.99</price>
+        </laptop>
+        <laptop id="3">
+            <brand>Dell</brand>
+            <model>XPS 13</model>
+            <screen_size>13.4</screen_size>
+            <resolution>3840x2400</resolution>
+            <processor>
+                <name>Intel Core i7</name>
+                <clock_speed>2.8 GHz</clock_speed>
+                <cores>4</cores>
+            </processor>
+            <memory>
+                <size>16 GB</size>
+                <type>LPDDR4x</type>
+            </memory>
+            <storage>
+                <type>SSD</type>
+                <size>512 GB</size>
+            </storage>
+            <price>1599.99</price>
+        </laptop>
+    </laptops>
+    <brands>
+        <brand>Apple</brand>
+        <brand>HP</brand>
+        <brand>Dell</brand>
+    </brands>
+    <processors>
+        <processor>
+            <name>Intel Core i5</name>
+            <clock_speed>2.4 GHz</clock_speed>
+            <cores>4</cores>
+        </processor>
+        <processor>
+            <name>Intel Core i7</name>
+            <clock_speed>2.8 GHz</clock_speed>
+            <cores>4</cores>
+        </processor>
+    </processors>
+</catalog>
